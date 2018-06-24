@@ -15,3 +15,4 @@ NCTU 2018 Spring Integrated Circuit Design Laboratory
 * Lab 11: Design: Local Binary Pattern
 * Lab 12: Power Rail Analysis
 * Final Project: Design: Gradient Descent
+* Online Test: Design: 2-Dimensional Convolution
